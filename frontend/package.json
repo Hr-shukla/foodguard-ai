@@ -13,5 +13,27 @@
     "recharts": "^2.10.3",
     "vite": "^5.4.21",
     "@vitejs/plugin-react": "^4.2.1"
+  },
+  "engines": {
+    "node": "18.20.4"
+  }
+}{
+  "name": "food-safety-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "recharts": "^2.10.3",
+    "vite": "^5.4.21",
+    "@vitejs/plugin-react": "^4.2.1"
+  },
+  "engines": {
+    "node": "18.20.4"
   }
 }
