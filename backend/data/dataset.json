@@ -1,0 +1,5546 @@
+[
+  {
+    "state": "Andhra Pradesh",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 548
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 181
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 349
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 159
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 729
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 194
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 450
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 282
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 319
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 182
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 400
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 535
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 393
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 388
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 373
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 265
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 244
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 365
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 358
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 505
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 331
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 386
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 643
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 191
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 473
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 251
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 215
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 461
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 251
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 437
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 419
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 414
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 224
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 262
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 477
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 482
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 314
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 459
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 377
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 304
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 484
+  },
+  {
+    "state": "Andhra Pradesh",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 573
+  },
+  {
+    "state": "Assam",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 209
+  },
+  {
+    "state": "Assam",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 249
+  },
+  {
+    "state": "Assam",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 287
+  },
+  {
+    "state": "Assam",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 187
+  },
+  {
+    "state": "Assam",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 313
+  },
+  {
+    "state": "Assam",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 158
+  },
+  {
+    "state": "Assam",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 244
+  },
+  {
+    "state": "Assam",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 115
+  },
+  {
+    "state": "Assam",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 162
+  },
+  {
+    "state": "Assam",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 285
+  },
+  {
+    "state": "Assam",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 406
+  },
+  {
+    "state": "Assam",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 303
+  },
+  {
+    "state": "Assam",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 310
+  },
+  {
+    "state": "Assam",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 190
+  },
+  {
+    "state": "Assam",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 266
+  },
+  {
+    "state": "Assam",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 313
+  },
+  {
+    "state": "Assam",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 358
+  },
+  {
+    "state": "Assam",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 295
+  },
+  {
+    "state": "Assam",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 243
+  },
+  {
+    "state": "Assam",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 262
+  },
+  {
+    "state": "Assam",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 288
+  },
+  {
+    "state": "Assam",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 219
+  },
+  {
+    "state": "Assam",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 217
+  },
+  {
+    "state": "Assam",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 525
+  },
+  {
+    "state": "Assam",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 380
+  },
+  {
+    "state": "Assam",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 338
+  },
+  {
+    "state": "Assam",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 171
+  },
+  {
+    "state": "Assam",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 258
+  },
+  {
+    "state": "Assam",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 405
+  },
+  {
+    "state": "Assam",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 341
+  },
+  {
+    "state": "Assam",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 461
+  },
+  {
+    "state": "Assam",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 202
+  },
+  {
+    "state": "Assam",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 280
+  },
+  {
+    "state": "Assam",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 286
+  },
+  {
+    "state": "Assam",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 378
+  },
+  {
+    "state": "Assam",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 168
+  },
+  {
+    "state": "Assam",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 309
+  },
+  {
+    "state": "Assam",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 328
+  },
+  {
+    "state": "Assam",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 305
+  },
+  {
+    "state": "Assam",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 231
+  },
+  {
+    "state": "Assam",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 303
+  },
+  {
+    "state": "Assam",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 426
+  },
+  {
+    "state": "Bihar",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 323
+  },
+  {
+    "state": "Bihar",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 215
+  },
+  {
+    "state": "Bihar",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 367
+  },
+  {
+    "state": "Bihar",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 322
+  },
+  {
+    "state": "Bihar",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 475
+  },
+  {
+    "state": "Bihar",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 275
+  },
+  {
+    "state": "Bihar",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 250
+  },
+  {
+    "state": "Bihar",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 321
+  },
+  {
+    "state": "Bihar",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 329
+  },
+  {
+    "state": "Bihar",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 330
+  },
+  {
+    "state": "Bihar",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 307
+  },
+  {
+    "state": "Bihar",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 269
+  },
+  {
+    "state": "Bihar",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 318
+  },
+  {
+    "state": "Bihar",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 211
+  },
+  {
+    "state": "Bihar",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 332
+  },
+  {
+    "state": "Bihar",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 289
+  },
+  {
+    "state": "Bihar",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 200
+  },
+  {
+    "state": "Bihar",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 308
+  },
+  {
+    "state": "Bihar",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 568
+  },
+  {
+    "state": "Bihar",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 289
+  },
+  {
+    "state": "Bihar",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 364
+  },
+  {
+    "state": "Bihar",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 209
+  },
+  {
+    "state": "Bihar",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 418
+  },
+  {
+    "state": "Bihar",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 239
+  },
+  {
+    "state": "Bihar",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 522
+  },
+  {
+    "state": "Bihar",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 268
+  },
+  {
+    "state": "Bihar",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 364
+  },
+  {
+    "state": "Bihar",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 488
+  },
+  {
+    "state": "Bihar",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 557
+  },
+  {
+    "state": "Bihar",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 285
+  },
+  {
+    "state": "Bihar",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 725
+  },
+  {
+    "state": "Bihar",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 281
+  },
+  {
+    "state": "Bihar",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 239
+  },
+  {
+    "state": "Bihar",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 457
+  },
+  {
+    "state": "Bihar",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 341
+  },
+  {
+    "state": "Bihar",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 554
+  },
+  {
+    "state": "Bihar",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 287
+  },
+  {
+    "state": "Bihar",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 415
+  },
+  {
+    "state": "Bihar",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 383
+  },
+  {
+    "state": "Bihar",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 437
+  },
+  {
+    "state": "Bihar",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 559
+  },
+  {
+    "state": "Bihar",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 277
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 222
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 341
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 427
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 313
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 268
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 301
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 372
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 221
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 253
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 370
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 664
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 453
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 363
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 325
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 238
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 175
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 416
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 411
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 285
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 322
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 223
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 186
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 211
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 247
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 256
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 185
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 319
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 314
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 337
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 399
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 270
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 311
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 163
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 210
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 304
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 275
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 690
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 327
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 216
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 331
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 328
+  },
+  {
+    "state": "Chhattisgarh",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 386
+  },
+  {
+    "state": "Delhi",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 349
+  },
+  {
+    "state": "Delhi",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 289
+  },
+  {
+    "state": "Delhi",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 264
+  },
+  {
+    "state": "Delhi",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 178
+  },
+  {
+    "state": "Delhi",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 287
+  },
+  {
+    "state": "Delhi",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 403
+  },
+  {
+    "state": "Delhi",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 519
+  },
+  {
+    "state": "Delhi",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 290
+  },
+  {
+    "state": "Delhi",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 366
+  },
+  {
+    "state": "Delhi",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 314
+  },
+  {
+    "state": "Delhi",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 287
+  },
+  {
+    "state": "Delhi",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 369
+  },
+  {
+    "state": "Delhi",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 308
+  },
+  {
+    "state": "Delhi",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 325
+  },
+  {
+    "state": "Delhi",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 374
+  },
+  {
+    "state": "Delhi",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 357
+  },
+  {
+    "state": "Delhi",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 280
+  },
+  {
+    "state": "Delhi",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 212
+  },
+  {
+    "state": "Delhi",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 189
+  },
+  {
+    "state": "Delhi",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 410
+  },
+  {
+    "state": "Delhi",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 637
+  },
+  {
+    "state": "Delhi",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 474
+  },
+  {
+    "state": "Delhi",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 347
+  },
+  {
+    "state": "Delhi",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 366
+  },
+  {
+    "state": "Delhi",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 382
+  },
+  {
+    "state": "Delhi",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 468
+  },
+  {
+    "state": "Delhi",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 316
+  },
+  {
+    "state": "Delhi",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 206
+  },
+  {
+    "state": "Delhi",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 381
+  },
+  {
+    "state": "Delhi",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 357
+  },
+  {
+    "state": "Delhi",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 226
+  },
+  {
+    "state": "Delhi",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 401
+  },
+  {
+    "state": "Delhi",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 630
+  },
+  {
+    "state": "Delhi",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 293
+  },
+  {
+    "state": "Delhi",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 519
+  },
+  {
+    "state": "Delhi",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 312
+  },
+  {
+    "state": "Delhi",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 479
+  },
+  {
+    "state": "Delhi",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 347
+  },
+  {
+    "state": "Delhi",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 219
+  },
+  {
+    "state": "Delhi",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 552
+  },
+  {
+    "state": "Delhi",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 440
+  },
+  {
+    "state": "Delhi",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 250
+  },
+  {
+    "state": "Gujarat",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 253
+  },
+  {
+    "state": "Gujarat",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 354
+  },
+  {
+    "state": "Gujarat",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 241
+  },
+  {
+    "state": "Gujarat",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 342
+  },
+  {
+    "state": "Gujarat",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 208
+  },
+  {
+    "state": "Gujarat",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 169
+  },
+  {
+    "state": "Gujarat",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 318
+  },
+  {
+    "state": "Gujarat",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 328
+  },
+  {
+    "state": "Gujarat",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 326
+  },
+  {
+    "state": "Gujarat",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 318
+  },
+  {
+    "state": "Gujarat",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 405
+  },
+  {
+    "state": "Gujarat",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 345
+  },
+  {
+    "state": "Gujarat",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 416
+  },
+  {
+    "state": "Gujarat",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 248
+  },
+  {
+    "state": "Gujarat",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 261
+  },
+  {
+    "state": "Gujarat",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 256
+  },
+  {
+    "state": "Gujarat",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 306
+  },
+  {
+    "state": "Gujarat",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 313
+  },
+  {
+    "state": "Gujarat",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 389
+  },
+  {
+    "state": "Gujarat",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 242
+  },
+  {
+    "state": "Gujarat",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 280
+  },
+  {
+    "state": "Gujarat",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 323
+  },
+  {
+    "state": "Gujarat",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 411
+  },
+  {
+    "state": "Gujarat",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 340
+  },
+  {
+    "state": "Gujarat",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 357
+  },
+  {
+    "state": "Gujarat",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 238
+  },
+  {
+    "state": "Gujarat",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 247
+  },
+  {
+    "state": "Gujarat",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 194
+  },
+  {
+    "state": "Gujarat",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 493
+  },
+  {
+    "state": "Gujarat",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 344
+  },
+  {
+    "state": "Gujarat",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 528
+  },
+  {
+    "state": "Gujarat",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 355
+  },
+  {
+    "state": "Gujarat",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 205
+  },
+  {
+    "state": "Gujarat",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 282
+  },
+  {
+    "state": "Gujarat",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 614
+  },
+  {
+    "state": "Gujarat",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 359
+  },
+  {
+    "state": "Gujarat",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 493
+  },
+  {
+    "state": "Gujarat",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 350
+  },
+  {
+    "state": "Gujarat",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 219
+  },
+  {
+    "state": "Gujarat",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 196
+  },
+  {
+    "state": "Gujarat",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 348
+  },
+  {
+    "state": "Gujarat",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 299
+  },
+  {
+    "state": "Haryana",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 249
+  },
+  {
+    "state": "Haryana",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 259
+  },
+  {
+    "state": "Haryana",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 106
+  },
+  {
+    "state": "Haryana",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 237
+  },
+  {
+    "state": "Haryana",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 267
+  },
+  {
+    "state": "Haryana",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 201
+  },
+  {
+    "state": "Haryana",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 184
+  },
+  {
+    "state": "Haryana",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 182
+  },
+  {
+    "state": "Haryana",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 122
+  },
+  {
+    "state": "Haryana",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 285
+  },
+  {
+    "state": "Haryana",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 333
+  },
+  {
+    "state": "Haryana",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 250
+  },
+  {
+    "state": "Haryana",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 261
+  },
+  {
+    "state": "Haryana",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 215
+  },
+  {
+    "state": "Haryana",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 269
+  },
+  {
+    "state": "Haryana",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 284
+  },
+  {
+    "state": "Haryana",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 224
+  },
+  {
+    "state": "Haryana",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 304
+  },
+  {
+    "state": "Haryana",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 143
+  },
+  {
+    "state": "Haryana",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 366
+  },
+  {
+    "state": "Haryana",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 167
+  },
+  {
+    "state": "Haryana",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 231
+  },
+  {
+    "state": "Haryana",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 293
+  },
+  {
+    "state": "Haryana",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 137
+  },
+  {
+    "state": "Haryana",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 231
+  },
+  {
+    "state": "Haryana",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 357
+  },
+  {
+    "state": "Haryana",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 217
+  },
+  {
+    "state": "Haryana",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 257
+  },
+  {
+    "state": "Haryana",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 173
+  },
+  {
+    "state": "Haryana",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 349
+  },
+  {
+    "state": "Haryana",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 392
+  },
+  {
+    "state": "Haryana",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 547
+  },
+  {
+    "state": "Haryana",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 331
+  },
+  {
+    "state": "Haryana",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 290
+  },
+  {
+    "state": "Haryana",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 364
+  },
+  {
+    "state": "Haryana",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 182
+  },
+  {
+    "state": "Haryana",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 232
+  },
+  {
+    "state": "Haryana",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 353
+  },
+  {
+    "state": "Haryana",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 233
+  },
+  {
+    "state": "Haryana",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 334
+  },
+  {
+    "state": "Haryana",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 444
+  },
+  {
+    "state": "Haryana",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 244
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 231
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 268
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 292
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 300
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 324
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 235
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 248
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 392
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 157
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 255
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 492
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 470
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 380
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 408
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 251
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 163
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 187
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 208
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 417
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 395
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 220
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 368
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 238
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 240
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 514
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 431
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 282
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 228
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 422
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 355
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 416
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 345
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 421
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 495
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 780
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 269
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 328
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 317
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 194
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 324
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 565
+  },
+  {
+    "state": "Himachal Pradesh",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 358
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 343
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 351
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 261
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 180
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 234
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 168
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 248
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 445
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 259
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 221
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 491
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 193
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 467
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 253
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 318
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 175
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 274
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 203
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 263
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 289
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 217
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 161
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 458
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 317
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 482
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 332
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 447
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 702
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 510
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 814
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 630
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 505
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 209
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 462
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 467
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 468
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 431
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 416
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 383
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 493
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 252
+  },
+  {
+    "state": "Jammu & Kashmir",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 356
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 379
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 238
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 260
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 400
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 421
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 199
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 284
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 352
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 402
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 257
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 368
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 542
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 372
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 282
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 226
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 390
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 380
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 204
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 417
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 446
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 129
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 263
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 402
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 327
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 452
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 272
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 225
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 270
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 296
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 327
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 266
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 557
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 243
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 429
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 407
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 389
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 269
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 180
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 221
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 511
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 468
+  },
+  {
+    "state": "Jharkhand",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 326
+  },
+  {
+    "state": "Karnataka",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 458
+  },
+  {
+    "state": "Karnataka",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 178
+  },
+  {
+    "state": "Karnataka",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 367
+  },
+  {
+    "state": "Karnataka",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 411
+  },
+  {
+    "state": "Karnataka",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 370
+  },
+  {
+    "state": "Karnataka",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 290
+  },
+  {
+    "state": "Karnataka",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 395
+  },
+  {
+    "state": "Karnataka",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 187
+  },
+  {
+    "state": "Karnataka",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 349
+  },
+  {
+    "state": "Karnataka",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 194
+  },
+  {
+    "state": "Karnataka",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 263
+  },
+  {
+    "state": "Karnataka",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 309
+  },
+  {
+    "state": "Karnataka",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 284
+  },
+  {
+    "state": "Karnataka",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 320
+  },
+  {
+    "state": "Karnataka",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 287
+  },
+  {
+    "state": "Karnataka",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 408
+  },
+  {
+    "state": "Karnataka",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 359
+  },
+  {
+    "state": "Karnataka",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 376
+  },
+  {
+    "state": "Karnataka",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 234
+  },
+  {
+    "state": "Karnataka",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 507
+  },
+  {
+    "state": "Karnataka",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 320
+  },
+  {
+    "state": "Karnataka",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 340
+  },
+  {
+    "state": "Karnataka",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 312
+  },
+  {
+    "state": "Karnataka",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 317
+  },
+  {
+    "state": "Karnataka",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 466
+  },
+  {
+    "state": "Karnataka",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 404
+  },
+  {
+    "state": "Karnataka",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 274
+  },
+  {
+    "state": "Karnataka",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 839
+  },
+  {
+    "state": "Karnataka",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 379
+  },
+  {
+    "state": "Karnataka",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 397
+  },
+  {
+    "state": "Karnataka",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 250
+  },
+  {
+    "state": "Karnataka",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 214
+  },
+  {
+    "state": "Karnataka",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 196
+  },
+  {
+    "state": "Karnataka",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 469
+  },
+  {
+    "state": "Karnataka",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 215
+  },
+  {
+    "state": "Karnataka",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 188
+  },
+  {
+    "state": "Karnataka",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 417
+  },
+  {
+    "state": "Karnataka",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 336
+  },
+  {
+    "state": "Karnataka",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 240
+  },
+  {
+    "state": "Karnataka",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 466
+  },
+  {
+    "state": "Karnataka",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 450
+  },
+  {
+    "state": "Karnataka",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 453
+  },
+  {
+    "state": "Kerala",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 355
+  },
+  {
+    "state": "Kerala",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 169
+  },
+  {
+    "state": "Kerala",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 346
+  },
+  {
+    "state": "Kerala",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 139
+  },
+  {
+    "state": "Kerala",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 424
+  },
+  {
+    "state": "Kerala",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 166
+  },
+  {
+    "state": "Kerala",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 286
+  },
+  {
+    "state": "Kerala",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 332
+  },
+  {
+    "state": "Kerala",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 193
+  },
+  {
+    "state": "Kerala",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 173
+  },
+  {
+    "state": "Kerala",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 253
+  },
+  {
+    "state": "Kerala",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 201
+  },
+  {
+    "state": "Kerala",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 331
+  },
+  {
+    "state": "Kerala",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 193
+  },
+  {
+    "state": "Kerala",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 180
+  },
+  {
+    "state": "Kerala",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 187
+  },
+  {
+    "state": "Kerala",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 343
+  },
+  {
+    "state": "Kerala",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 342
+  },
+  {
+    "state": "Kerala",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 216
+  },
+  {
+    "state": "Kerala",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 249
+  },
+  {
+    "state": "Kerala",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 193
+  },
+  {
+    "state": "Kerala",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 300
+  },
+  {
+    "state": "Kerala",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 192
+  },
+  {
+    "state": "Kerala",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 341
+  },
+  {
+    "state": "Kerala",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 262
+  },
+  {
+    "state": "Kerala",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 256
+  },
+  {
+    "state": "Kerala",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 222
+  },
+  {
+    "state": "Kerala",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 207
+  },
+  {
+    "state": "Kerala",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 201
+  },
+  {
+    "state": "Kerala",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 175
+  },
+  {
+    "state": "Kerala",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 192
+  },
+  {
+    "state": "Kerala",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 241
+  },
+  {
+    "state": "Kerala",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 325
+  },
+  {
+    "state": "Kerala",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 353
+  },
+  {
+    "state": "Kerala",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 649
+  },
+  {
+    "state": "Kerala",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 185
+  },
+  {
+    "state": "Kerala",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 339
+  },
+  {
+    "state": "Kerala",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 305
+  },
+  {
+    "state": "Kerala",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 169
+  },
+  {
+    "state": "Kerala",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 364
+  },
+  {
+    "state": "Kerala",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 256
+  },
+  {
+    "state": "Kerala",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 214
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 335
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 231
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 156
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 413
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 280
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 193
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 298
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 196
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 153
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 324
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 383
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 362
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 558
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 239
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 295
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 328
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 208
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 400
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 443
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 229
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 208
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 270
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 368
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 218
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 526
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 404
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 431
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 396
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 380
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 281
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 426
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 224
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 182
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 311
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 219
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 220
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 268
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 291
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 262
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 262
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 597
+  },
+  {
+    "state": "Madhya Pradesh",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 235
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 544
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 476
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 365
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 263
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 420
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 496
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 660
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 329
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 316
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 607
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 941
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 272
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 371
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 330
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 292
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 424
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 289
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 344
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 425
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 260
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 485
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 188
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 318
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 553
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 658
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 351
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 525
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 326
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 578
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 307
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 496
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 319
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 476
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 577
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 407
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 614
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 320
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 482
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 810
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 304
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 747
+  },
+  {
+    "state": "Maharashtra",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 507
+  },
+  {
+    "state": "Odisha",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 456
+  },
+  {
+    "state": "Odisha",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 162
+  },
+  {
+    "state": "Odisha",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 224
+  },
+  {
+    "state": "Odisha",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 159
+  },
+  {
+    "state": "Odisha",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 306
+  },
+  {
+    "state": "Odisha",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 238
+  },
+  {
+    "state": "Odisha",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 419
+  },
+  {
+    "state": "Odisha",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 385
+  },
+  {
+    "state": "Odisha",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 250
+  },
+  {
+    "state": "Odisha",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 310
+  },
+  {
+    "state": "Odisha",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 297
+  },
+  {
+    "state": "Odisha",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 335
+  },
+  {
+    "state": "Odisha",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 253
+  },
+  {
+    "state": "Odisha",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 157
+  },
+  {
+    "state": "Odisha",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 130
+  },
+  {
+    "state": "Odisha",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 127
+  },
+  {
+    "state": "Odisha",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 245
+  },
+  {
+    "state": "Odisha",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 191
+  },
+  {
+    "state": "Odisha",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 285
+  },
+  {
+    "state": "Odisha",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 260
+  },
+  {
+    "state": "Odisha",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 154
+  },
+  {
+    "state": "Odisha",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 287
+  },
+  {
+    "state": "Odisha",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 644
+  },
+  {
+    "state": "Odisha",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 188
+  },
+  {
+    "state": "Odisha",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 376
+  },
+  {
+    "state": "Odisha",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 321
+  },
+  {
+    "state": "Odisha",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 217
+  },
+  {
+    "state": "Odisha",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 365
+  },
+  {
+    "state": "Odisha",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 376
+  },
+  {
+    "state": "Odisha",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 246
+  },
+  {
+    "state": "Odisha",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 248
+  },
+  {
+    "state": "Odisha",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 337
+  },
+  {
+    "state": "Odisha",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 231
+  },
+  {
+    "state": "Odisha",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 186
+  },
+  {
+    "state": "Odisha",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 353
+  },
+  {
+    "state": "Odisha",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 187
+  },
+  {
+    "state": "Odisha",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 380
+  },
+  {
+    "state": "Odisha",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 369
+  },
+  {
+    "state": "Odisha",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 270
+  },
+  {
+    "state": "Odisha",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 454
+  },
+  {
+    "state": "Odisha",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 393
+  },
+  {
+    "state": "Odisha",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 247
+  },
+  {
+    "state": "Punjab",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 299
+  },
+  {
+    "state": "Punjab",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 119
+  },
+  {
+    "state": "Punjab",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 203
+  },
+  {
+    "state": "Punjab",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 268
+  },
+  {
+    "state": "Punjab",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 267
+  },
+  {
+    "state": "Punjab",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 197
+  },
+  {
+    "state": "Punjab",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 317
+  },
+  {
+    "state": "Punjab",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 297
+  },
+  {
+    "state": "Punjab",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 270
+  },
+  {
+    "state": "Punjab",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 291
+  },
+  {
+    "state": "Punjab",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 363
+  },
+  {
+    "state": "Punjab",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 271
+  },
+  {
+    "state": "Punjab",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 237
+  },
+  {
+    "state": "Punjab",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 191
+  },
+  {
+    "state": "Punjab",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 140
+  },
+  {
+    "state": "Punjab",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 259
+  },
+  {
+    "state": "Punjab",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 232
+  },
+  {
+    "state": "Punjab",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 148
+  },
+  {
+    "state": "Punjab",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 206
+  },
+  {
+    "state": "Punjab",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 278
+  },
+  {
+    "state": "Punjab",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 269
+  },
+  {
+    "state": "Punjab",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 129
+  },
+  {
+    "state": "Punjab",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 264
+  },
+  {
+    "state": "Punjab",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 202
+  },
+  {
+    "state": "Punjab",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 352
+  },
+  {
+    "state": "Punjab",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 287
+  },
+  {
+    "state": "Punjab",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 162
+  },
+  {
+    "state": "Punjab",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 227
+  },
+  {
+    "state": "Punjab",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 303
+  },
+  {
+    "state": "Punjab",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 377
+  },
+  {
+    "state": "Punjab",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 344
+  },
+  {
+    "state": "Punjab",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 125
+  },
+  {
+    "state": "Punjab",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 253
+  },
+  {
+    "state": "Punjab",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 194
+  },
+  {
+    "state": "Punjab",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 167
+  },
+  {
+    "state": "Punjab",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 189
+  },
+  {
+    "state": "Punjab",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 224
+  },
+  {
+    "state": "Punjab",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 288
+  },
+  {
+    "state": "Punjab",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 143
+  },
+  {
+    "state": "Punjab",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 279
+  },
+  {
+    "state": "Punjab",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 201
+  },
+  {
+    "state": "Punjab",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 271
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 227
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 258
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 268
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 350
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 288
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 177
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 194
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 205
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 207
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 335
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 233
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 277
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 294
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 124
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 244
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 327
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 398
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 145
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 173
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 157
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 134
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 200
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 469
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 220
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 285
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 316
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 161
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 342
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 406
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 354
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 375
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 205
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 331
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 266
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 386
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 274
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 237
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 161
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 300
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 214
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 421
+  },
+  {
+    "state": "Rajasthan",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 435
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 335
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 300
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 257
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 341
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 423
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 451
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 267
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 245
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 170
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 344
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 599
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 427
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 183
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 350
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 187
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 349
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 483
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 452
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 224
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 296
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 174
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 389
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 264
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 200
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 278
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 245
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 365
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 441
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 484
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 555
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 344
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 226
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 279
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 209
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 621
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 337
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 717
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 533
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 170
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 381
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 460
+  },
+  {
+    "state": "Tamil Nadu",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 310
+  },
+  {
+    "state": "Telangana",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 277
+  },
+  {
+    "state": "Telangana",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 431
+  },
+  {
+    "state": "Telangana",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 216
+  },
+  {
+    "state": "Telangana",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 348
+  },
+  {
+    "state": "Telangana",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 363
+  },
+  {
+    "state": "Telangana",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 195
+  },
+  {
+    "state": "Telangana",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 499
+  },
+  {
+    "state": "Telangana",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 426
+  },
+  {
+    "state": "Telangana",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 284
+  },
+  {
+    "state": "Telangana",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 170
+  },
+  {
+    "state": "Telangana",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 410
+  },
+  {
+    "state": "Telangana",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 672
+  },
+  {
+    "state": "Telangana",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 369
+  },
+  {
+    "state": "Telangana",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 268
+  },
+  {
+    "state": "Telangana",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 312
+  },
+  {
+    "state": "Telangana",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 189
+  },
+  {
+    "state": "Telangana",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 460
+  },
+  {
+    "state": "Telangana",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 319
+  },
+  {
+    "state": "Telangana",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 454
+  },
+  {
+    "state": "Telangana",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 449
+  },
+  {
+    "state": "Telangana",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 309
+  },
+  {
+    "state": "Telangana",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 330
+  },
+  {
+    "state": "Telangana",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 509
+  },
+  {
+    "state": "Telangana",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 477
+  },
+  {
+    "state": "Telangana",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 262
+  },
+  {
+    "state": "Telangana",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 334
+  },
+  {
+    "state": "Telangana",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 353
+  },
+  {
+    "state": "Telangana",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 336
+  },
+  {
+    "state": "Telangana",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 296
+  },
+  {
+    "state": "Telangana",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 458
+  },
+  {
+    "state": "Telangana",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 306
+  },
+  {
+    "state": "Telangana",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 291
+  },
+  {
+    "state": "Telangana",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 422
+  },
+  {
+    "state": "Telangana",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 555
+  },
+  {
+    "state": "Telangana",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 240
+  },
+  {
+    "state": "Telangana",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 340
+  },
+  {
+    "state": "Telangana",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 531
+  },
+  {
+    "state": "Telangana",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 312
+  },
+  {
+    "state": "Telangana",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 222
+  },
+  {
+    "state": "Telangana",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 216
+  },
+  {
+    "state": "Telangana",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 401
+  },
+  {
+    "state": "Telangana",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 370
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 848
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 336
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 411
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 520
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 677
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 517
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 465
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 542
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 253
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 532
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 764
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 530
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 389
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 403
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 365
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 481
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 572
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 381
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 467
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 419
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 274
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 417
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 401
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 322
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 678
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 415
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 309
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 704
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 517
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 505
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 440
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 419
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 348
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 818
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 713
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 451
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 409
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 315
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 678
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 493
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 402
+  },
+  {
+    "state": "Uttar Pradesh",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 371
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 294
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 249
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 245
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 457
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 183
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 341
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 166
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 411
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 240
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 390
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 256
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 344
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 262
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 253
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 194
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 162
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 376
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 369
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 641
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 536
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 245
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 445
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 290
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 166
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 317
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 302
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 423
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 366
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 246
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 620
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 334
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 267
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 497
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 362
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 308
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 220
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 632
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 542
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 458
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 423
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 467
+  },
+  {
+    "state": "Uttarakhand",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 299
+  },
+  {
+    "state": "West Bengal",
+    "year": 2018,
+    "food_category": "Dairy Products",
+    "contamination_cases": 232
+  },
+  {
+    "state": "West Bengal",
+    "year": 2018,
+    "food_category": "Edible Oils",
+    "contamination_cases": 210
+  },
+  {
+    "state": "West Bengal",
+    "year": 2018,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 305
+  },
+  {
+    "state": "West Bengal",
+    "year": 2018,
+    "food_category": "Produce",
+    "contamination_cases": 442
+  },
+  {
+    "state": "West Bengal",
+    "year": 2018,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 395
+  },
+  {
+    "state": "West Bengal",
+    "year": 2018,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 419
+  },
+  {
+    "state": "West Bengal",
+    "year": 2019,
+    "food_category": "Dairy Products",
+    "contamination_cases": 400
+  },
+  {
+    "state": "West Bengal",
+    "year": 2019,
+    "food_category": "Edible Oils",
+    "contamination_cases": 202
+  },
+  {
+    "state": "West Bengal",
+    "year": 2019,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 235
+  },
+  {
+    "state": "West Bengal",
+    "year": 2019,
+    "food_category": "Produce",
+    "contamination_cases": 360
+  },
+  {
+    "state": "West Bengal",
+    "year": 2019,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 355
+  },
+  {
+    "state": "West Bengal",
+    "year": 2019,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 260
+  },
+  {
+    "state": "West Bengal",
+    "year": 2020,
+    "food_category": "Dairy Products",
+    "contamination_cases": 184
+  },
+  {
+    "state": "West Bengal",
+    "year": 2020,
+    "food_category": "Edible Oils",
+    "contamination_cases": 269
+  },
+  {
+    "state": "West Bengal",
+    "year": 2020,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 273
+  },
+  {
+    "state": "West Bengal",
+    "year": 2020,
+    "food_category": "Produce",
+    "contamination_cases": 353
+  },
+  {
+    "state": "West Bengal",
+    "year": 2020,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 218
+  },
+  {
+    "state": "West Bengal",
+    "year": 2020,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 297
+  },
+  {
+    "state": "West Bengal",
+    "year": 2021,
+    "food_category": "Dairy Products",
+    "contamination_cases": 362
+  },
+  {
+    "state": "West Bengal",
+    "year": 2021,
+    "food_category": "Edible Oils",
+    "contamination_cases": 169
+  },
+  {
+    "state": "West Bengal",
+    "year": 2021,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 264
+  },
+  {
+    "state": "West Bengal",
+    "year": 2021,
+    "food_category": "Produce",
+    "contamination_cases": 234
+  },
+  {
+    "state": "West Bengal",
+    "year": 2021,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 563
+  },
+  {
+    "state": "West Bengal",
+    "year": 2021,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 265
+  },
+  {
+    "state": "West Bengal",
+    "year": 2022,
+    "food_category": "Dairy Products",
+    "contamination_cases": 507
+  },
+  {
+    "state": "West Bengal",
+    "year": 2022,
+    "food_category": "Edible Oils",
+    "contamination_cases": 353
+  },
+  {
+    "state": "West Bengal",
+    "year": 2022,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 247
+  },
+  {
+    "state": "West Bengal",
+    "year": 2022,
+    "food_category": "Produce",
+    "contamination_cases": 341
+  },
+  {
+    "state": "West Bengal",
+    "year": 2022,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 411
+  },
+  {
+    "state": "West Bengal",
+    "year": 2022,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 439
+  },
+  {
+    "state": "West Bengal",
+    "year": 2023,
+    "food_category": "Dairy Products",
+    "contamination_cases": 356
+  },
+  {
+    "state": "West Bengal",
+    "year": 2023,
+    "food_category": "Edible Oils",
+    "contamination_cases": 319
+  },
+  {
+    "state": "West Bengal",
+    "year": 2023,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 257
+  },
+  {
+    "state": "West Bengal",
+    "year": 2023,
+    "food_category": "Produce",
+    "contamination_cases": 280
+  },
+  {
+    "state": "West Bengal",
+    "year": 2023,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 530
+  },
+  {
+    "state": "West Bengal",
+    "year": 2023,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 372
+  },
+  {
+    "state": "West Bengal",
+    "year": 2024,
+    "food_category": "Dairy Products",
+    "contamination_cases": 652
+  },
+  {
+    "state": "West Bengal",
+    "year": 2024,
+    "food_category": "Edible Oils",
+    "contamination_cases": 337
+  },
+  {
+    "state": "West Bengal",
+    "year": 2024,
+    "food_category": "Meat & Poultry",
+    "contamination_cases": 346
+  },
+  {
+    "state": "West Bengal",
+    "year": 2024,
+    "food_category": "Produce",
+    "contamination_cases": 230
+  },
+  {
+    "state": "West Bengal",
+    "year": 2024,
+    "food_category": "Ready-to-Eat Foods",
+    "contamination_cases": 424
+  },
+  {
+    "state": "West Bengal",
+    "year": 2024,
+    "food_category": "Spices & Masala",
+    "contamination_cases": 467
+  }
+]
